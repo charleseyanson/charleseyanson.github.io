@@ -1,5 +1,5 @@
 body {
-    background-color: #4889b7;
+    background-color: #f2f3f4;
     min-height: 100%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
@@ -17,6 +17,7 @@ header {
 
 h1 {
     font-size: min(5vw, 1.2em);
+    padding-right: 6px;
 }
 
 nav {
@@ -32,7 +33,6 @@ nav > ul {
 
 h2, p {
     text-align: center;
-    color: #f2f3f4;
 }
 
 a:link {
