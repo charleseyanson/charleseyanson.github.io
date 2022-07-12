@@ -32,10 +32,19 @@ nav > ul {
 
 h2, p {
     text-align: center;
+    color: #f2f3f4;
 }
 
 a:link {
     color: #f2f3f4; 
     background-color: transparent; 
     text-decoration: none;
+}
+
+a:visited {
+    color: #f2f3f4;
+}
+
+a:hover {
+    color: #4889b7;
 }
