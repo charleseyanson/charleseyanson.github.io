@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(#3c91c9 80%, #ffffff 5%, #d8c636 15%);
+    background-color: #1a3d55;
     min-height: 100%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
@@ -32,4 +32,10 @@ nav > ul {
 
 h2, p {
     text-align: center;
+}
+
+a:link {
+    color: #f2f3f4; 
+    background-color: transparent; 
+    text-decoration: none;
 }
