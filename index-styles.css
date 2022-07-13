@@ -33,6 +33,7 @@ nav > ul {
     flex-wrap: wrap;
     align-items: center;
     padding-inline-start: 0;
+    height: 100%;
 }
 
 nav > ul > li {
