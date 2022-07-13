@@ -36,15 +36,15 @@ h2, p {
 }
 
 a:link {
-    color: #f2f3f4; 
+    color: #4889b7; 
     background-color: transparent; 
     text-decoration: none;
 }
 
 a:visited {
-    color: #f2f3f4;
+    color: #4889b7;
 }
 
 a:hover {
-    color: #4889b7;
+    color: #f2f3f4;
 }
